@@ -1,0 +1,14 @@
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\Demo_OOP_Ass_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\Demo_OOP_Ass_1.AssemblyInfoInputs.cache
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\Demo_OOP_Ass_1.AssemblyInfo.cs
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\Demo_OOP_Ass_1.csproj.CoreCompileInputs.cache
+D:\c#\Demo_OOP_Ass_1\bin\Debug\net6.0\Demo_OOP_Ass_1.exe
+D:\c#\Demo_OOP_Ass_1\bin\Debug\net6.0\Demo_OOP_Ass_1.deps.json
+D:\c#\Demo_OOP_Ass_1\bin\Debug\net6.0\Demo_OOP_Ass_1.runtimeconfig.json
+D:\c#\Demo_OOP_Ass_1\bin\Debug\net6.0\Demo_OOP_Ass_1.dll
+D:\c#\Demo_OOP_Ass_1\bin\Debug\net6.0\Demo_OOP_Ass_1.pdb
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\Demo_OOP_Ass_1.dll
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\refint\Demo_OOP_Ass_1.dll
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\Demo_OOP_Ass_1.pdb
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\Demo_OOP_Ass_1.genruntimeconfig.cache
+D:\c#\Demo_OOP_Ass_1\obj\Debug\net6.0\ref\Demo_OOP_Ass_1.dll
