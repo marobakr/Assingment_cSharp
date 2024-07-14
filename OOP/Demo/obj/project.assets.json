@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\OOP\\Assignment_2\\Demo\\Demo_Ass_2.csproj",
-      "projectName": "Demo_Ass_2",
-      "projectPath": "D:\\c#\\OOP\\Assignment_2\\Demo\\Demo_Ass_2.csproj",
+      "projectUniqueName": "D:\\c#\\OOP\\Assignment_3\\Assignment_3.csproj",
+      "projectName": "Assignment_3",
+      "projectPath": "D:\\c#\\OOP\\Assignment_3\\Assignment_3.csproj",
       "packagesPath": "C:\\Users\\TGT\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\OOP\\Assignment_2\\Demo\\obj\\",
+      "outputPath": "D:\\c#\\OOP\\Assignment_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TGT\\AppData\\Roaming\\NuGet\\NuGet.Config",

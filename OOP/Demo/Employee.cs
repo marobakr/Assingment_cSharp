@@ -3,58 +3,51 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 
-namespace Demo_Ass_2
+namespace Assignment_3
 {
     internal class Employee
     {
-        public int id;
-        private string Name;
-        private decimal salary;
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
 
-        public Employee(int _id, string _name, decimal _salary)
+        public  void MyFunOne()
         {
-            Name = _name;
-            id = _id;
-            salary = _salary;
+            Console.WriteLine("i am an employee");
         }
-
-        public override string ToString()
+        public virtual void MyFunTwo()
         {
-            return $"Employee ID: {id}, Name: {Name}, Salary: {salary:C}";
+            Console.WriteLine($"employee : id {Id} , Name:{Name} ,Age:{Age}");
         }
+    }
 
-        #region  Example Witt Method [Get ,Set]
-        // Get
-        /*   public string GetName()
-           {
-               return Name;
+    internal class fullTimeEmployee : Employee
+    {
+        public decimal Salary { get; set; }
+        public new void MyFunOne()
+        {
+            Console.WriteLine("i am a full time employee");
+        }
+        public override void MyFunTwo()
+        {
+            Console.WriteLine($"full employee : id {Id} , Name:{Name} ,Age:{Age}");
+        }
+    }
 
-               }
+    internal class PartTimeEmployee : Employee
+    {
 
-           // Set
-           public string SetName(string newName)
-           {
-               return Name = newName;
-           }
-   */
-        #endregion
+        public decimal HourRate { get; set; }
+        public decimal CounterOfHourse { get; set; }
 
-        #region With Full Property 
-        /*        public decimal Salary { get; set; }
-        */
-        #endregion
-
-        #region With ReadOnly
-        /*     public string FullName
-             {
-                 get { return $"{Name}"; }
-             }*/
-        #endregion
-
+        public new void MyFunOne()
+        {
+            Console.WriteLine("i am a part time employee");
+        }
+        public override void MyFunTwo()
+        {
+            Console.WriteLine($"part employee : id {Id} , Name:{Name} ,Age:{Age}");
+        }
     }
 }
-
-
-

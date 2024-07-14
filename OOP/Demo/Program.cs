@@ -1,44 +1,76 @@
-﻿using System;
+﻿using System.Security.Cryptography.X509Certificates;
 
-namespace Demo_Ass_2
+namespace Assignment_3
 {
     internal class Program
     {
+        /*============= Example For Overloding  ============= */
+        public static int Sum(int a)
+        {
+            return a;
+        }
+
+        public static int Sum(int a, int b)
+        {
+            return a + b;
+        }
+        public static int Sum(int a, int b, int d)
+        {
+            return a + b;
+        }
+
+        /*============= Example For Binding  ============= */
+
+      public  static void ProcessEmployee(Employee employee) {
+            if (employee is not null) {
+                employee.MyFunOne();
+                employee.MyFunTwo();
+            }
+        }
         static void Main(string[] args)
         {
+            /*============= Overloding ============= */
 
-            #region Regualr Example Without Incapsulation
-            /*   Employee Emp = new Employee(10, "marwan", 10000);
-               Emp.id = 10;
-               Console.WriteLine(Emp.id);*/
-            #endregion
+            Console.WriteLine("Hello, World!");
+            int Result = Program.Sum(10);
+            int ResultTow = Program.Sum(10, 20);
+            int ResultThere = Program.Sum(10, 30, 10);
 
-            #region  Example Witt Incapsulation [Get ,Set]
-            /*      Employee Emp = new Employee(10, "marwan", 10000);
-                // Emp.Name; // Canot Set Name Directly Using Atterbute ❌❌❌
-                Emp.SetName("ahmed");
-                Console.WriteLine(Emp.GetName());*/
-            #endregion
+            /*============= Overriding ============= */
+            Animal Ani = new Animal("animal");
+            Ani.MakeSound();
+            Cat cat = new Cat("Cat");
+            cat.MakeSound();
+            Dog dog = new Dog("Dog");
+            dog.MakeSound();
+            Mouse mouse = new Mouse("Mouse");
+            mouse.MakeSound();
 
-            #region With Full Property 
-            /*      Employee Emp = new Employee(10, "marwan", 10000);
-                  Emp.Salary = 200;
-                  Console.WriteLine(Emp.Salary);*/
-            #endregion
 
-            #region With ReadOnly
-            /*     Employee Emp = new Employee(10, "marwan", 10000);
-                 Console.WriteLine(Emp.FullName);*/
-            #endregion
+            /*============= Binding============= */
 
-            #region Indexer
-            PhoneBook Note = new PhoneBook(3);
-            Note.addPerson(0, "Ahmed", 123);
-            Note.SetNumber("Ahmed", 555);
+            Animal dogBinding = new AnimalBinding("AnimalBinding");
+            /*
+             * Static Binding (Early Binding):
+             * it's dosn't run `MakeSound` for child
+             */
 
-            Note["Ahmed"] = 99; // Use Indexer For Setter
-            Console.WriteLine(Note["Ahmed"]); // Use Indexer For Getter
-            #endregion
+            dogBinding.MakeSound();
+
+            /*
+            * Dynamic Binding (Late Binding):
+            * it's will run `MakeSound` for child
+            */
+
+
+            /*============= Example For Binding ============= */
+
+            fullTimeEmployee fullEmployee = new fullTimeEmployee();
+            PartTimeEmployee PartEmployee = new PartTimeEmployee();
+
+            ProcessEmployee(PartEmployee);
+           ProcessEmployee(fullEmployee);
+
         }
     }
 }
