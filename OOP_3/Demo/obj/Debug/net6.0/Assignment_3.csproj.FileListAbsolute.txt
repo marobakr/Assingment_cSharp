@@ -1,0 +1,14 @@
+D:\c#\OOP\Assignment_3\bin\Debug\net6.0\Assignment_3.exe
+D:\c#\OOP\Assignment_3\bin\Debug\net6.0\Assignment_3.deps.json
+D:\c#\OOP\Assignment_3\bin\Debug\net6.0\Assignment_3.runtimeconfig.json
+D:\c#\OOP\Assignment_3\bin\Debug\net6.0\Assignment_3.dll
+D:\c#\OOP\Assignment_3\bin\Debug\net6.0\Assignment_3.pdb
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\Assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\Assignment_3.AssemblyInfoInputs.cache
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\Assignment_3.AssemblyInfo.cs
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\Assignment_3.csproj.CoreCompileInputs.cache
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\Assignment_3.dll
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\refint\Assignment_3.dll
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\Assignment_3.pdb
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\Assignment_3.genruntimeconfig.cache
+D:\c#\OOP\Assignment_3\obj\Debug\net6.0\ref\Assignment_3.dll
