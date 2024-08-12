@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/ADV_01/Assignment/Assignment.csproj",
-      "projectName": "Assignment",
-      "projectPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/ADV_01/Assignment/Assignment.csproj",
+      "projectUniqueName": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/advanced_C#/session_2/session_2.csproj",
+      "projectName": "session_2",
+      "projectPath": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/advanced_C#/session_2/session_2.csproj",
       "packagesPath": "/home/marwanhero/.nuget/packages/",
-      "outputPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/ADV_01/Assignment/obj/",
+      "outputPath": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/advanced_C#/session_2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/marwanhero/.nuget/NuGet/NuGet.Config"
