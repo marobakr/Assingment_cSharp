@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/ADV_02/Assignment/Assignment.csproj": {}
+    "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/advanced_C#/session_3/session_3.csproj": {}
   },
   "projects": {
-    "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/ADV_02/Assignment/Assignment.csproj": {
+    "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/advanced_C#/session_3/session_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/ADV_02/Assignment/Assignment.csproj",
-        "projectName": "Assignment",
-        "projectPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/ADV_02/Assignment/Assignment.csproj",
+        "projectUniqueName": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/advanced_C#/session_3/session_3.csproj",
+        "projectName": "session_3",
+        "projectPath": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/advanced_C#/session_3/session_3.csproj",
         "packagesPath": "/home/marwanhero/.nuget/packages/",
-        "outputPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/ADV_02/Assignment/obj/",
+        "outputPath": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/advanced_C#/session_3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marwanhero/.nuget/NuGet/NuGet.Config"
