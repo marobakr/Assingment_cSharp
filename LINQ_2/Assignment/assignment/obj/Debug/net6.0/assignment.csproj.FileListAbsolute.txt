@@ -1,0 +1,15 @@
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/bin/Debug/net6.0/assignment
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/bin/Debug/net6.0/assignment.deps.json
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/bin/Debug/net6.0/assignment.runtimeconfig.json
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/bin/Debug/net6.0/assignment.dll
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/bin/Debug/net6.0/assignment.pdb
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/assignment.csproj.AssemblyReference.cache
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/assignment.AssemblyInfoInputs.cache
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/assignment.AssemblyInfo.cs
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/assignment.csproj.CoreCompileInputs.cache
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/assignment.dll
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/refint/assignment.dll
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/assignment.pdb
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/assignment.genruntimeconfig.cache
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/assignment/assignment/obj/Debug/net6.0/ref/assignment.dll

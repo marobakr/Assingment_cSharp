@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGLN/yN7kX8=",
+  "success": true,
+  "projectFilePath": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_02/session_02/session_02.csproj",
+  "expectedPackageFiles": [
+    "/home/marwanhero/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/marwanhero/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/marwanhero/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.31/microsoft.netcore.app.host.linux-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
