@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/Enitiy-Framework/Session_01/Session_01.csproj",
+      "projectUniqueName": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/EntityFramework/Demo/Session_01.csproj",
       "projectName": "Session_01",
-      "projectPath": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/Enitiy-Framework/Session_01/Session_01.csproj",
+      "projectPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/EntityFramework/Demo/Session_01.csproj",
       "packagesPath": "/home/marwanhero/.nuget/packages/",
-      "outputPath": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/Enitiy-Framework/Session_01/obj/",
+      "outputPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/EntityFramework/Demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/marwanhero/.nuget/NuGet/NuGet.Config"

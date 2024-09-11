@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HjUBTLMyrXGemmX0NnX+Wk4hCCchHwtTwN3ZeBOjJFPcrdEQWafR+f8HZjoSRe/dZnJNe/1basdkc9lgXZPd3Q==",
+  "dgSpecHash": "IrWusGA/ucM=",
   "success": true,
-  "projectFilePath": "/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/Enitiy-Framework/Session_01/Session_01.csproj",
+  "projectFilePath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/EntityFramework/Demo/Session_01.csproj",
   "expectedPackageFiles": [
     "/home/marwanhero/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/marwanhero/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
