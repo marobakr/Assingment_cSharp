@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Session_02.props" />
+</Project>
