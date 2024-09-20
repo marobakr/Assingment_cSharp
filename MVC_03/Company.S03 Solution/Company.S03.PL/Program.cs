@@ -1,3 +1,4 @@
+using Company.S03.BLL.Interface;
 using Company.S03.BLL.Repositories;
 using Company.S03.DAL.Data.Contexts;
 using Microsoft.EntityFrameworkCore;
@@ -27,7 +28,7 @@ public class Program
             
         }); //* Extensions Method: AddDbContext will create an instance of AppDbContext and add it to the service container
        
-        builder.Services.AddScoped<DepartmentRepository>(); //* Allow Dependency Injection for DepartmentRepository
+        builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>(); //* Allow Dependency Injection for DepartmentRepository
         
         /* === === === === === === End Dependency Injection === === === === === === */
         

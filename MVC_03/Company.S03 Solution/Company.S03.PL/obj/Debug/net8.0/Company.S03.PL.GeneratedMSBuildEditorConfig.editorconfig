@@ -18,8 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/marwanhero/Desktop/Web_2024/C#_Demos_Route/MVC/Company.S03 Solution/Company.S03.PL
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/marwanhero/Desktop/Web_2024/C\#_Demos_Route/MVC/Company.S03 Solution/Company.S03.PL/Views/Departments/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudHMvSW5kZXguY3NodG1s
+[/home/marwanhero/Desktop/Web_2024/C\#_Demos_Route/MVC/Company.S03 Solution/Company.S03.PL/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/marwanhero/Desktop/Web_2024/C\#_Demos_Route/MVC/Company.S03 Solution/Company.S03.PL/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/marwanhero/Desktop/Web_2024/C\#_Demos_Route/MVC/Company.S03 Solution/Company.S03.PL/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/marwanhero/Desktop/Web_2024/C\#_Demos_Route/MVC/Company.S03 Solution/Company.S03.PL/Views/Home/Index.cshtml]

@@ -19,7 +19,7 @@ public class DepartmentRepository : IDepartmentRepository
         return _appDbContext.Departments.ToList();
     }
 
-    public Department Get(int? id)
+    public Department Get(int id)
     {
         // return _appDbContext.Departments.FirstOrDefault( D => D.Id == id);
         return _appDbContext.Departments.Find(id);
