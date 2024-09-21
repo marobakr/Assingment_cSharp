@@ -1,0 +1,14 @@
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/bin/Debug/net7.0/session_1
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/bin/Debug/net7.0/session_1.deps.json
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/bin/Debug/net7.0/session_1.runtimeconfig.json
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/bin/Debug/net7.0/session_1.dll
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/bin/Debug/net7.0/session_1.pdb
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/session_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/session_1.AssemblyInfoInputs.cache
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/session_1.AssemblyInfo.cs
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/session_1.csproj.CoreCompileInputs.cache
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/session_1.dll
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/refint/session_1.dll
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/session_1.pdb
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/session_1.genruntimeconfig.cache
+/home/marwanhero/Desktop/Web_2024/C#_Demos_Route/LINQ/session_1/session_1/obj/Debug/net7.0/ref/session_1.dll
