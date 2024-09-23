@@ -1,0 +1,13 @@
+@model Company.S03.DAL.Models.Employee
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete Department </h2>
+<form asp-action="Delete">
+    <partial name="PartialView/EditeCreateEmployeeParitalView" model="Model"/>
+
+    <input type="submit" value="Delete" class="btn btn-danger mt-3"/>
+    <a asp-controller="Employee" asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
