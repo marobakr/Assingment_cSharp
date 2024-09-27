@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Mvc03.Demo.PLL/Company.S06.BLL.csproj": {}
+  },
+  "projects": {
+    "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Company.S06.DAL/Company.S06.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Company.S06.DAL/Company.S06.DAL.csproj",
+        "projectName": "Company.S06.DAL",
+        "projectPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Company.S06.DAL/Company.S06.DAL.csproj",
+        "packagesPath": "/home/marwanhero/.nuget/packages/",
+        "outputPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Company.S06.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marwanhero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Mvc03.Demo.PLL/Company.S06.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Mvc03.Demo.PLL/Company.S06.BLL.csproj",
+        "projectName": "Company.S06.BLL",
+        "projectPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Mvc03.Demo.PLL/Company.S06.BLL.csproj",
+        "packagesPath": "/home/marwanhero/.nuget/packages/",
+        "outputPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Mvc03.Demo.PLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marwanhero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Company.S06.DAL/Company.S06.DAL.csproj": {
+                "projectPath": "/home/marwanhero/Desktop/Web_2024/Assingment_cSharp/MVC_06_MVC_07/MvcProject.Demo/Company.S06.DAL/Company.S06.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
